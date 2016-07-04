@@ -9,4 +9,5 @@
 * [Chapter 1: Good Parts](chapter_1_good_parts.md)
 * [Chapter 2: Grammar](chapter_2_grammar.md)
 * [Chapter 8: Methods](chapter_8_methods.md)
+* Chapter 9: Style
 
