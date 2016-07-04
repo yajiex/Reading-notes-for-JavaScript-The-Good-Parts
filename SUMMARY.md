@@ -6,4 +6,5 @@
 * [Chapter 5: Inheritance](chapter_5_inheritance.md)
 * [Chapter 6: Arrays](chapter_6_arrays.md)
 * [Chapter 7: Regular Expressions](chapter_7_regular_expressions.md)
+* Chapter 1: Good Parts
 
