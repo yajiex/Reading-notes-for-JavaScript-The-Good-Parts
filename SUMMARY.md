@@ -10,4 +10,5 @@
 * [Chapter 2: Grammar](chapter_2_grammar.md)
 * [Chapter 8: Methods](chapter_8_methods.md)
 * [Chapter 9: Style](chapter_9_style.md)
+* Chapter 10: Beautiful Features
 
