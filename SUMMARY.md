@@ -7,4 +7,5 @@
 * [Chapter 6: Arrays](chapter_6_arrays.md)
 * [Chapter 7: Regular Expressions](chapter_7_regular_expressions.md)
 * [Chapter 1: Good Parts](chapter_1_good_parts.md)
+* Chapter 2: Grammar
 
