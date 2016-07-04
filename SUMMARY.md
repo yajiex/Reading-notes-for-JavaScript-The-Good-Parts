@@ -8,5 +8,5 @@
 * [Chapter 7: Regular Expressions](chapter_7_regular_expressions.md)
 * [Chapter 1: Good Parts](chapter_1_good_parts.md)
 * [Chapter 2: Grammar](chapter_2_grammar.md)
-* Chapter 8: Methods
+* [Chapter 8: Methods](chapter_8_methods.md)
 
